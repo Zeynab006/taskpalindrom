@@ -83,5 +83,5 @@ foreach (int num in arr)
     }
 }
 
-Console.WriteLine("Sade ededlerin sayi: " + sade);
-Console.WriteLine("Murekkeb ededlerin sayi: " + murekkeb);
+Console.WriteLine("Sade sayi: " + sade);
+Console.WriteLine("Murekkeb sayi: " + murekkeb);
