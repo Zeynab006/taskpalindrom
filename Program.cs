@@ -1,5 +1,5 @@
 //palindrom
-//int eded = 121;
+//int eded = 565;
 //int deyisiklik = eded;
 //int ters = 0;
 
